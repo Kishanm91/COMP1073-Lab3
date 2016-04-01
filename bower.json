@@ -1,0 +1,24 @@
+{
+  "name": "assignment3",
+  "homepage": "https://github.com/Kishanm91/COMP1073-Lab3",
+  "authors": [
+    "Kishanm91 <kishan.m44@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.5.0",
+    "jquery": "^2.2.2",
+    "bootstrap": "^3.3.6"
+  }
+}
